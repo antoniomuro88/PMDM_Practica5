@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="button">Apartado 1</string>
+    <string name="button2">Apartado 2</string>
+    <string name="izquierda">Izquierda</string>
+    <string name="medio">Medio</string>
+    <string name="derecha">Derecha</string>
+    <string name="arriba">Arriba</string>
+    <string name="centro">Centro</string>
+    <string name="abajo">Abajo</string>
+    <string name="mostrar">Configurar Toast</string>
+    <string name="t_tulo_del_mensaje">Título del mensaje</string>
+    <string name="texto_del_mensaje">Texto del mensaje</string>
+    <string name="segundos_para_que_salga_la_notificaci_n">Segundos para que salga la notificación</string>
+    <string name="enviar">Enviar</string>
+    <string name="app_name1">Apartado 1</string>
+    <string name="app_name2">Apartado 2</string>
+    <string name="button3">Configurar Toast</string>
+    <string name="DesplHor">Introduzca el desplazamiento horizontal</string>
+    <string name="DesplVert">Introduzca el desplazamiento vertical</string>
+    <string name="IntroText">Introduzca el texto que desee introducir</string>
+</resources>
